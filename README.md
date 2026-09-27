@@ -18,6 +18,7 @@ I'm a BCA student interested in web development, software development, and learn
 - Java
 - PHP
 - C
+- python
 
 ### Web Development
 - HTML

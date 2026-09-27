@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi 👋, I'm Khushi Singh
 
-<!--
-**khushi437/khushi437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Aspiring Web Developer
 
-Here are some ideas to get you started:
+I'm a BCA student interested in web development, software development, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 BCA Student
+- 💻 Interested in Web Development
+- 🌱 Currently learning PHP, Laravel, Java and MySQL
+- 🗄️ Interested in Database Management Systems
+- 🚀 Building projects to improve my development skills
+
+## 🛠️ Technologies & Skills
+
+### Programming Languages
+- Java
+- PHP
+- C
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Laravel
+
+### Database
+- MySQL
+- DBMS
+
+### Tools
+- Git
+- GitHub
+- XAMPP
+- VS Code
+
+## 📌 Featured Projects
+
+### 🛒 Smart Grahak Management System
+
+A Laravel-based management system for managing customers, parties and payments.
+
+**Technologies:** PHP, Laravel, MySQL, Bootstrap
+
+🔗 [View Project](https://github.com/khushi437/smart-grahak)
+
+---
+
+## 📚 Currently Learning
+
+- Laravel
+- Java
+- MySQL
+- Git & GitHub
+- Data Structures & Algorithms
+- Software Engineering
+
+## 🎯 Goals
+
+- Build real-world projects
+- Improve my programming skills
+- Learn modern web technologies
+- Create a strong developer portfolio
+
+## 📫 Connect With Me
+
+GitHub: [@khushi437](https://github.com/khushi437)
